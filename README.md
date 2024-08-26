@@ -1,7 +1,5 @@
 # Memory Game
 
-![Memory Game](path/to/your/image.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
